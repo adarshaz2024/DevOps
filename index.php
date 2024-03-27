@@ -3,7 +3,7 @@
 <body>
  
 <?php
-echo "Nayan PHP script!";
+echo "Adarsh's PHP script!";
 ?>
 
 </body>
